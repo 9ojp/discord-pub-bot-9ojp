@@ -1,0 +1,7 @@
+discord.py[voice]>=2.4
+yt-dlp[default]
+yt-dlp-ejs
+deno
+aiosqlite
+python-dotenv
+spotipy
